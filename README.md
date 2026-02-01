@@ -1,4 +1,6 @@
 # Phishing URL Detection
+### Corso: Intelligenza Artificiale 2 - Sapienza Università di Roma (a.a. 2025/2026)
+### Team: Giulia Milillo 2138525, Mario Pitzalis 2143577
 
 Questo progetto ha l'obiettivo di individuare URL di phishing utilizzando tecniche di Machine Learning supervisionato.
 A partire da un dataset di URL etichettati come legittimi o phishing, sono state applicate tecniche di esplorazione dei dati, preprocessing, feature engineering e addestramento di diversi modelli di classificazione.
